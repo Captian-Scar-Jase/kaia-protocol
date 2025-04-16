@@ -1,0 +1,1 @@
+Badge SVGs and JSON samples go here.
