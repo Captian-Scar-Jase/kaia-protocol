@@ -1,0 +1,25 @@
+# 🚫 SSH Keys
+*.pem
+*.key
+*.pub
+id_rsa
+id_ecdsa
+id_ed25519
+
+# 🔐 Other Secrets
+.env
+*.p12
+*.pfx
+
+# 🧹 System & IDE clutter
+*.log
+*.swp
+.DS_Store
+.vscode/
+
+# 🐍 Python
+__pycache__/
+*.pyc
+
+# 🧰 Node
+node_modules/
